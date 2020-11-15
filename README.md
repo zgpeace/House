@@ -7,7 +7,7 @@ https://card.weibo.com/article/m/show/id/2309404479175791608054?_wb_client_=1&ob
 
 全文较长，懒得看细节，可以直接拉到最后看汇总流程图及表格
 
-![](https://wx1.sinaimg.cn/large/007f5HtRly4gbkiwalt5uj31240prjsm.jpg)
+![123](https://wx1.sinaimg.cn/large/007f5HtRly4gbkiwalt5uj31240prjsm.jpg)
  
 https://wx1.sinaimg.cn/large/007f5HtRly4gbkiwalt5uj31240prjsm.jpg
 
@@ -24,7 +24,7 @@ https://wx1.sinaimg.cn/large/007f5HtRly4gbkiwalt5uj31240prjsm.jpg
 02.业主群
 现在几乎每个小区都会建个业主群吧，好多一手租房卖房信息业主都会发布到群里。要么恰好有朋友在这个小区，让他帮忙留意下，要么想办法混进业主群。
 
-![](https://wx1.sinaimg.cn/large/007f5HtRly4gbkiwalb14j30bt08t3yl.jpg)
+![123](https://wx1.sinaimg.cn/large/007f5HtRly4gbkiwalb14j30bt08t3yl.jpg)
 https://wx1.sinaimg.cn/large/007f5HtRly4gbkiwalb14j30bt08t3yl.jpg
 
 03.物业
@@ -49,7 +49,7 @@ https://wx1.sinaimg.cn/large/007f5HtRly4gbkiwalb14j30bt08t3yl.jpg
 
 03.产权调查
 这步非常关键，首先要确认的是该房源是否取得产权。
-![](https://wx3.sinaimg.cn/large/007f5HtRly4gbkiwalcvgj30dw090dg3.jpg)
+![123](https://wx3.sinaimg.cn/large/007f5HtRly4gbkiwalcvgj30dw090dg3.jpg)
 https://wx3.sinaimg.cn/large/007f5HtRly4gbkiwalcvgj30dw090dg3.jpg
 
 产权证/不动产权证书有多重要不用我强调了吧？房屋所有权证书上载明的权利人行使占有、使用、收益、处分的权利。没有产权证或者权属不明的房源建议直接pass，无论多么便宜！
@@ -59,7 +59,7 @@ https://wx3.sinaimg.cn/large/007f5HtRly4gbkiwalcvgj30dw090dg3.jpg
 ①由于各种历史原因产生的无籍房或者产权迟迟未下。比如我买的第一套房子就是由于开发商违建和挪用物维基金导致小区虽然五证俱全，但产权十年未下。后来政府出手重点解决无籍房的问题，再加上业委会的不懈努力，终于在去年拿到了产权。然后就发生了几年前便宜卖房的房主反悔了，不配合买家进行更名的各种桥段陆续上演。
 
 ②另外一种就是把产权证拿去抵押或者转卖了。
-![](https://wx4.sinaimg.cn/large/007f5HtRly4gbkiwamv82j30u0140td2.jpg)
+![123](https://wx4.sinaimg.cn/large/007f5HtRly4gbkiwamv82j30u0140td2.jpg)
 https://wx4.sinaimg.cn/large/007f5HtRly4gbkiwamv82j30u0140td2.jpg
 
 留意红框内信息
@@ -72,14 +72,14 @@ https://wx4.sinaimg.cn/large/007f5HtRly4gbkiwamv82j30u0140td2.jpg
 
 ③使用期限
 肯定是越久越好啊，至于到期了怎么处理？问祖国母亲吧
-![](https://wx3.sinaimg.cn/large/007f5HtRly4gbkiwatqyvj30u0140jy8.jpg)
+![123](https://wx3.sinaimg.cn/large/007f5HtRly4gbkiwatqyvj30u0140jy8.jpg)
 https://wx3.sinaimg.cn/large/007f5HtRly4gbkiwatqyvj30u0140jy8.jpg
 
 无论是以上哪种情况，无疑对购房者都是极大的风险。
 
 最稳妥的方法就是去房管局进行【产调】，以下图长春市的产调内容为例，注意红框信息
-![](https://wx2.sinaimg.cn/large/007f5HtRly4gbkiwanwksj30u0140789.jpg)
-![](https://wx3.sinaimg.cn/large/007f5HtRly4gbkiwaq8arj31400u0n1v.jpg)
+![123](https://wx2.sinaimg.cn/large/007f5HtRly4gbkiwanwksj30u0140789.jpg)
+![123](https://wx3.sinaimg.cn/large/007f5HtRly4gbkiwaq8arj31400u0n1v.jpg)
 
 https://wx2.sinaimg.cn/large/007f5HtRly4gbkiwanwksj30u0140789.jpg
 
@@ -118,7 +118,7 @@ https://wx3.sinaimg.cn/large/007f5HtRly4gbkiwaq8arj31400u0n1v.jpg
 确定到房管局办理买卖合同登记和过户的时间。毕竟房证到手才算是万事大吉，要是你这边付了房款，那面迟迟不配合过户，可是够糟心了，所以前期也要在合同中写明过户时间及约定违约责任。
 
 除了购房款外，税费也是一笔不小的开支，从金额上来看，主要包括：契税、增值税（原营业税）和个税。其它比如印花税、制证费相比来说都是小钱，这里不做说明。下表由于各地政策不同可能略有差异，谨做示例，具体可咨询当地房管局。
-![](https://wx3.sinaimg.cn/large/007f5HtRly4gbkiwaknd5j30l60eet94.jpg)
+![123](https://wx3.sinaimg.cn/large/007f5HtRly4gbkiwaknd5j30l60eet94.jpg)
 https://wx3.sinaimg.cn/large/007f5HtRly4gbkiwaknd5j30l60eet94.jpg
 
 ①税费由谁承担？
@@ -152,7 +152,7 @@ https://wx3.sinaimg.cn/large/007f5HtRly4gbkiwaknd5j30l60eet94.jpg
 四、产权交易&过户
 
 只要前面合同订好，后面基本都是对公环节，问题不会太大。
-![](https://wx1.sinaimg.cn/large/007f5HtRly4gbkiwal25dj30fe0jhwf1.jpg)
+![123](https://wx1.sinaimg.cn/large/007f5HtRly4gbkiwal25dj30fe0jhwf1.jpg)
 https://wx1.sinaimg.cn/large/007f5HtRly4gbkiwal25dj30fe0jhwf1.jpg
 
 除去双方还贷或者贷款的时间，过户一般半天的时间就可以搞定了。以下几点需要注意：
@@ -174,7 +174,7 @@ https://wx1.sinaimg.cn/large/007f5HtRly4gbkiwal25dj30fe0jhwf1.jpg
  
 
 而且现在办理流程确实简单多了，一切手续完成之后，会给你一张业务受理单，新的产权证需要三个工作日可以完成制证。
-![](https://wx4.sinaimg.cn/large/007f5HtRly4gbkiwakprgj30u0140q6k.jpg)
+![123](https://wx4.sinaimg.cn/large/007f5HtRly4gbkiwakprgj30u0140q6k.jpg)
 https://wx4.sinaimg.cn/large/007f5HtRly4gbkiwakprgj30u0140q6k.jpg
 
 你可以选择到时自取也可以选择EMS快递，免费的哦，为什么拒绝呢?
@@ -211,7 +211,7 @@ https://wx1.sinaimg.cn/large/007f5HtRly4gbkiwase5aj30u0140jvm.jpg
  
 
 最后附上二手房交易流程图供大家参考：
-![](https://wx1.sinaimg.cn/large/007f5HtRly4gbkiwapfh9j30p5107q4q.jpg)
+![123](https://wx1.sinaimg.cn/large/007f5HtRly4gbkiwapfh9j30p5107q4q.jpg)
 https://wx1.sinaimg.cn/large/007f5HtRly4gbkiwapfh9j30p5107q4q.jpg
 
 ​​​
